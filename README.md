@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="image.jpeg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditi 👩🏻‍💻</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Aditi 👩🏻‍💻</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer from Pune, Maharashtra.</h3>
 
 
